@@ -1,0 +1,30 @@
+.addBtn,
+p {
+    font-family: 'Rubik', sans-serif;
+}
+
+::placeholder,
+.todo-input {
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    outline: none;
+}
+
+.task-title {
+    letter-spacing: 2px;
+    font-family: 'Gabarito', sans-serif;
+}
+
+.todo-title {
+    font-family: 'Gabarito', sans-serif;
+}
+
+.circle {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+img {
+    margin-left: 20px;
+}
